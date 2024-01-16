@@ -1,0 +1,78 @@
+{
+  "name": "shadow-script",
+  "displayName": "Shadow Script",
+  "description": "Elegant Dark Theme for the Artistic Code",
+  "version": "1.0.0",
+  "publisher": "adroitakash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ADROITAKASH/Shadow-Script"
+  },
+  "keywords": [
+    "theme",
+    "elegant",
+    "shadow script",
+    "coding",
+    "dark mode",
+    "dark theme",
+    "code aesthetics",
+    "stylish",
+    "developer",
+    "visual studio",
+    "coding environment",
+    "sophisticated",
+    "shadow",
+    "script",
+    "text editor",
+    "aesthetic coding",
+    "dark editor",
+    "elegant design",
+    "programming",
+    "dev theme",
+    "developer style",
+    "shadow UI",
+    "script syntax",
+    "dark background",
+    "coding night",
+    "elegant code",
+    "dark interface",
+    "script theme",
+    "visual elegance",
+    "night mode",
+    "stylish coding",
+    "shadow palette",
+    "editor theme",
+    "dark aesthetic",
+    "programming environment",
+    "code elegance",
+    "nocturnal theme",
+    "shadow design",
+    "scripting style",
+    "dark syntax",
+    "developer elegance",
+    "coding shadows",
+    "script elegance",
+    "dark canvas",
+    "creative coding",
+    "theme design",
+    "coding in dark",
+    "shadowy elegance",
+    "script environment",
+    "developer dark mode"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shadow Script",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shadow Script-color-theme.json"
+      }
+    ]
+  }
+}
