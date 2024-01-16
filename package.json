@@ -2,12 +2,14 @@
   "name": "shadow-script",
   "displayName": "Shadow Script",
   "description": "Elegant Dark Theme for the Artistic Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "adroitakash",
   "repository": {
     "type": "git",
     "url": "https://github.com/ADROITAKASH/Shadow-Script"
   },
+  "license": "MIT",
+  "icon": "icon.png",
   "keywords": [
     "theme",
     "elegant",
